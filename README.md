@@ -3,7 +3,7 @@ An entire community management system, written entirely by myself starting in 20
 
 Background history of this project: A community of people played the online game RuneScape. For nostalgic reasons, they hired me to recreate the old website as it was in the year 2007.
 
-This includes recreating a user account system, fully functional forum system, account messaging center, content management system, moderation tools for moderators and administrators to manage the community and forums, and a lot more.
+This includes recreating a user account system, PayPal IPN system ( if the website owner wanted to setup donations or an online shop ), fully functional forum system, account messaging center, content management system, moderation tools for moderators and administrators to manage the community and forums, and a lot more.
 
 Eventually due to the popularity of this software, I released it to the public for people to use as their website.
 
