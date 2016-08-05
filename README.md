@@ -7,4 +7,4 @@ This includes recreating a user account system, fully functional forum system, a
 
 Eventually due to the popularity of this software, I released it to the public for people to use as their website.
 
-**All the PHP & SQL code is 100% mine; however, because this was a recreation of an old website, the images and website CSS and majority of the HTML code do not belong to me, as they were recovered from an existing template.**
+**NOTE: All the PHP & SQL code is 100% mine; however, because this was a recreation of an old website, the images and website CSS and majority of the HTML code do not belong to me, as they were recovered from an existing template.**
