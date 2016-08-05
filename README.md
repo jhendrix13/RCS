@@ -5,6 +5,6 @@ Background history of this project: A community of people played the online game
 
 This includes recreating a user account system, PayPal IPN system ( if the website owner wanted to setup donations or an online shop ), fully functional forum system, account messaging center, content management system, moderation tools for moderators and administrators to manage the community and forums, and a lot more.
 
-Eventually due to the popularity of this software, I released it to the public for people to use as their website.
+Eventually due to the popularity of this software, I released it to the public for people to use as their website with an easy one-click installer.
 
 **NOTE: All the PHP & SQL code is 100% mine; however, because this was a recreation of an old website, the images and website CSS and majority of the HTML code do not belong to me, as they were recovered from an existing template.**
