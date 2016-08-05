@@ -1,4 +1,4 @@
-# RCS
+# RCS [RuneScape Community Script]
 An entire community management system, written entirely by myself starting in 2011. The last published version of this software was in 2012.
 
 Background history of this project: A community of people played the online game RuneScape. For nostalgic reasons, they hired me to recreate the old website as it was in the year 2007.
