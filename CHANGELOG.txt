@@ -1,0 +1,12 @@
+Changelog for 1.4->1.5
+*Added infraction system (upon giving infraction, a message is sent to the user with details)
+*Offense page (users can view infractions they've received here)
+*Forum Profile pages added (might be buggy) []
+*Added donation system; you have to manually set it up under the IPN folder, which includes adding your own donator button the donation page.
+   -> also please note that the minimum donaton is set to $2.00
+*Donors have different colored posts on forums ~~~~~~~
+*Donors have a "donor" title under their username~~~~~ You can make people donators via the ACP in "Lookup user"
+*Donors have more BBCodes, such as the following: ~~~~
+*When moderators escalate a thread, they can provide a reason
+*Administrators now have signatures. You can change/create a signature in the ACP homepage by clicking on the "change signature" button.
+*Fixed cookies not working properly on localhost [if you still encounter a problem regarding cookies (login/logout, etc), please PM me.
